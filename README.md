@@ -4,7 +4,7 @@
 
 # Sales Data Analysis for AtliQ Hardware Company
 
-![AtliQ Logo](https://via.placeholder.com/150)
+![AtliQ Logo](images/487090-company-logo.png)
 
 ## Overview
 
