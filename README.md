@@ -34,27 +34,23 @@ This project presents a comprehensive Sales Data Analysis for AtliQ Hardware Com
 
 ### Total Revenue and Total Quantity
 
-![Total Revenue and Total Quantity](https://via.placeholder.com/800x400)
+![Total Revenue and Total Quantity](images/img2)
 
 ### Yearly Sales Trends
 
-![Yearly Trends](https://via.placeholder.com/800x400)
+![Yearly Trends](images/img3)
 
 ### Top 5 Products
 
-![Top 5 Products](https://via.placeholder.com/800x400)
+![Top 5 Products](images/img4)
 
 ### Top 5 Customers
 
-![Top 5 Customers](https://via.placeholder.com/800x400)
+![Top 5 Customers](images/img5)
 
 ### Revenue by Market
 
-![Revenue by Market](https://via.placeholder.com/800x400)
-
-### Revenue by Products
-
-![Revenue by Products](https://via.placeholder.com/800x400)
+![Revenue by Market](images/img6)
 
 ## How to Use
 
