@@ -30,6 +30,10 @@ This project presents a comprehensive Sales Data Analysis for AtliQ Hardware Com
 
 [PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/74a360c8-d301-424a-afc0-45a94f41ea7b?ctid=12acd680-7586-470c-9e9d-8755396a6743&pbi_source=linkShare)
 
+### DashBoard
+
+![Dashboard image](images/img1.PNG)
+
 ## Screenshots
 
 ### Total Revenue and Total Quantity
